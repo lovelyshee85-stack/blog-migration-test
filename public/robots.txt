@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://blog-migration-test.lovelyshee85.workers.dev/sitemap.xml
